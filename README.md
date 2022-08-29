@@ -1,7 +1,6 @@
  - Olá, Eu sou Lucas Alberto
  
- - Hoje trabalho com Front End
- - Estudando PHP e JavaScript
+ - Hoje sou desenvolvedor Full Stack
  - Pronoums: ele/dele
 
 <div align="center">
